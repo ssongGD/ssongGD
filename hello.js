@@ -1,6 +1,6 @@
 function hello () {
 	console.log("Hi~ Im GeunDong");
-consol.log
+	console.log("Hi~ im Changnam");
 }
 
 hello();
