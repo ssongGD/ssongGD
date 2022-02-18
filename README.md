@@ -1,7 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&color=gradient&height=200&section=header&text=I'm%20SongDong&fontAlign=50&fontAlignY=70&fontSize=80&fontColor=#eee)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=200&section=header&text=I'm%20SongDong&fontSize=80)
 
-## Welcome to My Git
-## I'm studying blockchain and develop
+<h3 align="center"> 
+ Welcome to My Git <br/>
+ I'm studying blockchain and develop
+</h3>
 
 
 
