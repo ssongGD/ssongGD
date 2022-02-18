@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=200&section=header&text=I'm%20SongDong&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Soft&color=timeGradient&height=200&section=header&text=I'm%20SongDong&fontSize=80&&animation=blinking)
 
 <h3 align="center"> 
  Welcome to My Git <br/>
@@ -30,8 +30,9 @@
   <br>
   <img src="https://img.shields.io/badge/React-E6B91E?style=flat-square&logo=React&logoColor=#61DAFB"/></a>&nbsp
 </p>
-
-📝  <a href="https://ssonggd.tistory.com/">Blog</a>
+<h3 align="center">
+📝  <a href="https://ssonggd.tistory.com/">My Blog</a>
 <br>
 📨  zxc0842@gmail.com
 <hr>
+ </h3>
